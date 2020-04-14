@@ -1,0 +1,22 @@
+body{
+
+  background-color: white;
+}
+
+h3 {
+  color:#4cbbb9;
+}
+
+h1{
+  font-family: Perpetua;
+}
+
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 5%;
+}
